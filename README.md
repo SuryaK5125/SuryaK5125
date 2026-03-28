@@ -1,16 +1,52 @@
-## Hi there 👋
+![Banner](./banner.png)
 
-<!--
-**SuryaK5125/SuryaK5125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Surya 👋
 
-Here are some ideas to get you started:
+🎓 B.Tech IT @ NIT Kurukshetra  
+💡 Interested in Machine Learning, Systems & Full-Stack Development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- Focused on building **end-to-end systems** — from data pipelines to deployment  
+- Currently exploring:
+  - Machine Learning and NLP  
+  - Distributed systems and time-series analysis  
+  - Frontend development with React  
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**  
+![Languages](https://skillicons.dev/icons?i=cpp,python,js)
+
+**Web**  
+![Web](https://skillicons.dev/icons?i=react,firebase,html,css)
+
+**ML / Data**  
+Pandas · NumPy · Scikit-learn · Matplotlib  
+
+**Tools**  
+![Tools](https://skillicons.dev/icons?i=git,github,vscode)
+
+
+---
+
+## 📈 Current Focus
+
+- Improving DSA and problem-solving  
+- Building stronger ML systems  
+- Developing scalable projects  
+
+---
+
+## 📫 Connect With Me
+
+- 📧 suryaadhi789@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/surya-kalimuthu-b55991215/
+
+---
+
+⭐ *Trying to get 1% better every day*
