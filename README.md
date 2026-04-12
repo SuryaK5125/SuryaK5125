@@ -36,7 +36,7 @@ Pandas · NumPy · Scikit-learn · Matplotlib
 
 ## 📈 Current Focus
 
-- Improving DSA and problem-solving  
+- Applying to SDE/ML internships
 - Building stronger ML systems  
 - Developing scalable projects  
 
@@ -49,4 +49,4 @@ Pandas · NumPy · Scikit-learn · Matplotlib
 
 ---
 
-⭐ *Trying to get 1% better every day*
+> *"Code is just thinking made precise."*
