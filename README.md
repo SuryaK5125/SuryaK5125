@@ -20,15 +20,6 @@ Pandas · NumPy · Scikit-learn · Matplotlib
 **Tools**  
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
-
----
-
-## 📈 Current Focus
-
-- Applying to SDE/ML internships
-- Building stronger ML systems  
-- Developing scalable projects  
-
 ---
 
 ## 📫 Connect With Me
