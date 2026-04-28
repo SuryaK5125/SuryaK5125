@@ -1,19 +1,8 @@
 ![Banner](./banner.png)
 
-# Hi, I'm Surya 👋
+# Hey, I'm Surya
 
-🎓 B.Tech IT @ NIT Kurukshetra  
-💡 Interested in Machine Learning, Systems & Full-Stack Development  
-
----
-
-## 🧠 About Me
-
-- Focused on building **end-to-end systems** — from data pipelines to deployment  
-- Currently exploring:
-  - Machine Learning and NLP  
-  - Distributed systems and time-series analysis  
-  - Frontend development with React  
+B.Tech IT @ NIT Kurukshetra ('27). I work across ML systems, data pipelines, and full-stack development.
 
 ---
 
@@ -43,10 +32,5 @@ Pandas · NumPy · Scikit-learn · Matplotlib
 ---
 
 ## 📫 Connect With Me
+suryaadhi789@gmail.com · [LinkedIn](https://www.linkedin.com/in/surya-kalimuthu-b55991215/)
 
-- 📧 suryaadhi789@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/surya-kalimuthu-b55991215/
-
----
-
-> *"Code is just thinking made precise."*
