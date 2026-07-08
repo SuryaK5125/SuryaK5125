@@ -23,5 +23,4 @@ Pandas · NumPy · Scikit-learn · Matplotlib
 ---
 
 ## 📫 Connect With Me
-suryaadhi789@gmail.com · [LinkedIn](https://www.linkedin.com/in/surya-kalimuthu-b55991215/) · [Resume](https://drive.google.com/file/d/1uwVp1ihd9XFetJCYSrrdtbKvMNAD2C4Y/view?usp=sharing)
-
+suryaadhi789@gmail.com · [LinkedIn](https://www.linkedin.com/in/surya-kalimuthu/) 
