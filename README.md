@@ -2,7 +2,8 @@
 
 # Hey, I'm Surya
 
-B.Tech IT @ NIT Kurukshetra ('27). I work across ML systems, data pipelines, and full-stack development.
+B.Tech IT @ NIT Kurukshetra ('27). I work across ML systems, data pipelines, and full-stack development.  
+[Portfolio](https://suryak.vercel.app/)
 
 ---
 
